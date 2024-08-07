@@ -1,9 +1,9 @@
 <?php
 
-namespace RenokiCo\L1\Test;
+namespace XliteDev\LaravelD1\Test;
 
 use Illuminate\Support\Facades\DB;
-use RenokiCo\L1\Test\Models\User;
+use XliteDev\LaravelD1\Test\Models\User;
 
 class D1Test extends TestCase
 {

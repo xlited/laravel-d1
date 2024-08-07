@@ -1,8 +1,8 @@
 <?php
 
-namespace RenokiCo\L1\D1\Requests;
+namespace XliteDev\LaravelD1\D1\Requests;
 
-use RenokiCo\L1\CloudflareRequest;
+use XliteDev\LaravelD1\CloudflareRequest;
 use Saloon\Contracts\Body\HasBody;
 use Saloon\Enums\Method;
 use Saloon\Traits\Body\HasJsonBody;
