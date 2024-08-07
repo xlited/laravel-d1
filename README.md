@@ -95,4 +95,5 @@ If you discover any security related issues, please email <alex@renoki.org> inst
 ## 🎉 Credits
 
 - [Alex Renoki](https://github.com/rennokki)
+- [Ion Caliman](https://github.com/icaliman)
 - [All Contributors](../../contributors)
