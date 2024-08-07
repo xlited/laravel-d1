@@ -1,4 +1,4 @@
-# L1 - Cloudflare bindings for Laravel
+# Cloudflare D1 bindings for Laravel
 
 ![CI](https://github.com/renoki-co/l1/workflows/CI/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/renoki-co/l1/branch/master/graph/badge.svg)](https://codecov.io/gh/renoki-co/l1/branch/master)
@@ -8,13 +8,7 @@
 [![Monthly Downloads](https://poser.pugx.org/renoki-co/l1/d/monthly)](https://packagist.org/packages/renoki-co/l1)
 [![License](https://poser.pugx.org/renoki-co/l1/license)](https://packagist.org/packages/renoki-co/l1)
 
-Extend your PHP/Laravel application with Cloudflare bindings.
-
-This package offers support for:
-
-- [x] [Cloudflare D1](https://developers.cloudflare.com/d1)
-- [ ] [Cloudflare KV](https://developers.cloudflare.com/kv/)
-- [ ] [Cloudflare Queues](https://developers.cloudflare.com/queues)
+Extend your PHP/Laravel application with Cloudflare D1 bindings.
 
 ## 🚀 Installation
 
